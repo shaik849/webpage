@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+*{
+  box-sizing: border-box;
+}
+body{
+  font-family: "Bebas Neue";
+}
+.text{
+  position: absolute;
+  left: 57%;
+  height:100%;
+  transform: translate(-50%,-50%);
+}
+.font-one{
+  font-size: 90px;
+letter-spacing: 5px;
+line-height: 5px;
+text-transform: uppercase;
+color: #4d4d4d;
+font-family: "Bebas Neue";
+}
+.font-to{
+  font-size: 95px;
+  letter-spacing: 7px;
+  line-height: 80px;
+  text-transform: uppercase;
+  color: #414f6b;
+  font-family: "Bebas Neue";
+}
+.tab{
+  position: absolute;
+  display: flex;
+  left: 80%;
+  top: 5%;
+  color:#fff;
+  text-decoration: underline;
+}
+div h6{
+  margin: 10px;
+}
+.short{
+  position: absolute;
+  left:20%;
+  padding-top:25px ;
+}
+.second{
+  position: relative;
+  display: flex;
+}
+.shor{
+  position: relative;
+  left:20%;
+padding: 2px;
+flex:30%;
+}
+.texts{
+position: relative;
+flex: 95%;
+margin-top: 15px;
+font-family: "Bebas Neue";
+letter-spacing: 2px;
+}
+.font-on{
+  color: #4d4d4d;
+}
+.font-two{
+  color: #414f6b;
+  letter-spacing: 3px;
+}
+.tabs-to{
+  color: #3860a7;
+position: absolute;
+  display: flex;
+  left: 84%;
+  top: 5%;
+  text-decoration: underline;
+  transform: translate(-50%,-50%);
+  margin: 20px;
+}
+.third-text{
+  position: absolute;
+  left: 50%;
+  height:295%;
+  transform: translate(-50%,-50%);
+ 
+}
+.no{
+  font-size: 8rem;
+  color:#7d90b0;
+}
+.his{
+  position: relative;
+}
+.top{
+  position: absolute;
+  top: 40%;
+  left:17%;
+  color:#414f6b;
+}
+.para{
+  position: relative;
+  bottom: 2%;
+  left:12%;
+}
+.footer{
+  position: absolute;
+  height:400px;
+  width: 99%;
+  top:184.5%;
+  background-color: #39465e;
+  opacity: 0.8;
+}
+.photo{
+  margin:13px 350px;
+  width: 80%;
+  padding: 10px;
+}
+.footer-two{
+  position: absolute;
+  background-color: #fff;
+  top:210%;
+  height:205px;
+  width: 99%;
+  opacity: 2;
+}
+.fun{
+  position: absolute;
+  color: white;
+ 
+  bottom: 60%;
+  left:50%;
+  margin: 2px;
+ 
+}
+.yes{
+  position: absolute;
+  font-size: 8rem;
+  color:#7d90b0;
+  left:27%;
+}
+.low{
+  position: absolute;
+  top: 40%;
+  left:35%;
+  color:#414f6b;
+}
+.paras{
+  position: relative;
+  top: 25%;
+  left: 40%;
+}
+.fun span{
+  margin: 2px;
+  font-size: 2em;
+}
+.but{
+  display: flex;
+  position: absolute;
+  top:243%;
+  left:20%;
+}
+.but h3{
+  margin: 2px 10px;
+  font-family: "Bebas Neue";
+  letter-spacing: 1px;
+ 
+}
+.h{
+  color: #7d90b0;
+}
+.ho{
+  color: #7d90b0;
+}
+.but h3:hover{
+  background-color: #7d90b0;
+  background-size: 2px;
+    color: #39465e;
+}
+.box{
+  background-color:#fff;
+  height:250px;
+  position: absolute;
+  width: 350px;
+ top:280%;
+ left:20%;
+ opacity: 0.8;
+}
+.heada{
+  padding: 2% 10%;
+  letter-spacing: 2px;
+  color:#414f6b
+}
+table {
+  width: 100%;
+  padding: 0px 10px;
+  font-weight: lighter;
+}
+.last{
+  background-color: #39465e;
+
+}
